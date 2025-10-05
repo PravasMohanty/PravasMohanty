@@ -1,5 +1,9 @@
 # Hello world , Pravas this side ⚔️
 
+<p align="center">
+  <img src="https://github.com/PravasMohanty/PravasMohanty/blob/main/banner.png" alt="banner" width="800">
+</p>
+
 ## 💫 About Me:
 <br> I’m a student at the **Indian Institute of Information Technology, Tiruchirappalli (IIIT Trichy)**, passionate about technology and problem-solving. <br><br> I enjoy building **full-stack applications** and exploring **machine learning** and **AI-based projects**. <br><br> I’m skilled in **C, C++, Python, and JavaScript**, with experience in **MySQL** and **MongoDB**. <br><br> In my free time, I practice **data structures and algorithms** and enjoy **digital art and design**. <br><br> I’m currently open to **internship opportunities** where I can learn, grow, and contribute meaningfully. 🚀 <br>
 
